@@ -40,7 +40,7 @@ function initMap() {
 }
 </script>
 <script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAjbn_rb7xcavM74VhIUOLjnBFbURiZXc&callback=initMap&v=weekly"
+    src="https://maps.googleapis.com/maps/api/js?key=APIKey&callback=initMap&v=weekly"
     async
     ></script>
 </body>
